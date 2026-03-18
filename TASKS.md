@@ -61,10 +61,10 @@ From repository structure and docs, the desktop rewrite must preserve these capa
 ## Detailed Execution Plan
 
 ## Phase 0 — Discovery and specification freeze
-- [ ] Build a **feature parity matrix** mapping current behavior to target desktop screens.
-- [ ] Inventory all user-visible forms, validations, and calculations from Perl/JS and `webdoc/hdo.html`.
-- [ ] Define explicit non-goals for v1 desktop (if needed), e.g., no server-hosted multi-user mode.
-- [ ] Produce acceptance criteria per feature with sample input/output fixtures.
+- [x] Build a **feature parity matrix** mapping current behavior to target desktop screens.
+- [x] Inventory all user-visible forms, validations, and calculations from Perl/JS and `webdoc/hdo.html`.
+- [x] Define explicit non-goals for v1 desktop (if needed), e.g., no server-hosted multi-user mode.
+- [x] Produce acceptance criteria per feature with sample input/output fixtures.
 
 **Deliverables**
 - `docs/migration/feature-parity.md`
